@@ -1,0 +1,30 @@
+{
+    "name" : "Poli/VotosBundle",
+    "description" : "Pruebas de concepto sobre patrones sobre sistema de votaciones",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Jorge González",
+        "email" : "jag2kn@gmail.com"
+    }],
+    "keywords" : [
+        "patterns"
+    ],
+    "license" : [
+        "AGPL-V3"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Poli\\VotosBundle" : ""
+        }
+    },
+    "target-dir" : "Poli/VotosBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "1.0-dev"
+        }
+    }
+}
