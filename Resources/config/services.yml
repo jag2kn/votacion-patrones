@@ -1,0 +1,4 @@
+services:
+#    poli_votos.example:
+#        class: Poli\VotosBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
